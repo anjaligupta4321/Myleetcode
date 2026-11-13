@@ -28,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/anjaligupta4321/Myleetcode/tree/master/0189-rotate-array) |
+## String
+|  |
+| ------- |
+| [0065-valid-number](https://github.com/anjaligupta4321/Myleetcode/tree/master/0065-valid-number) |
 <!---LeetCode Topics End-->
