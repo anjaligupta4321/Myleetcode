@@ -29,10 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/anjaligupta4321/Myleetcode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/anjaligupta4321/Myleetcode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/anjaligupta4321/Myleetcode/tree/master/0412-fizz-buzz) |
 ## String
 |  |
 | ------- |
 | [0065-valid-number](https://github.com/anjaligupta4321/Myleetcode/tree/master/0065-valid-number) |
+| [0412-fizz-buzz](https://github.com/anjaligupta4321/Myleetcode/tree/master/0412-fizz-buzz) |
 ## Linked List
 |  |
 | ------- |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/anjaligupta4321/Myleetcode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/anjaligupta4321/Myleetcode/tree/master/0412-fizz-buzz) |
 ## Number Theory
 |  |
 | ------- |
