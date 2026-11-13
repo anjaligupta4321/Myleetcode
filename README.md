@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/anjaligupta4321/Myleetcode/tree/master/0016-3sum-closest) |
+| [0189-rotate-array](https://github.com/anjaligupta4321/Myleetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/anjaligupta4321/Myleetcode/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
@@ -19,4 +20,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/anjaligupta4321/Myleetcode/tree/master/0016-3sum-closest) |
+| [0189-rotate-array](https://github.com/anjaligupta4321/Myleetcode/tree/master/0189-rotate-array) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/anjaligupta4321/Myleetcode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
