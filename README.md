@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/anjaligupta4321/Myleetcode/tree/master/0016-3sum-closest) |
+| [0035-search-insert-position](https://github.com/anjaligupta4321/Myleetcode/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/anjaligupta4321/Myleetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anjaligupta4321/Myleetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/anjaligupta4321/Myleetcode/tree/master/0189-rotate-array) |
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/anjaligupta4321/Myleetcode/tree/master/0143-reorder-list) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/anjaligupta4321/Myleetcode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
